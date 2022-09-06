@@ -11,7 +11,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 To setup local environment, let do it simpler by breaking down into steps as given below:
--Install docker by []
+-Install docker by [https://docs.docker.com/get-docker/]
 -Verify if installed successfully by entering docker-compose -v on terminal
 -run docker-compose up from your root folder, it will load frontend and backend part
 -have patience, it will take some time
