@@ -10,4 +10,11 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+To setup local environment, let do it simpler by breaking down into steps as given below:
+-Install docker by []
+-Verify if installed successfully by entering docker-compose -v on terminal
+-run docker-compose up from your root folder, it will load frontend and backend part
+-have patience, it will take some time
+-then go to [http://localhost:3000/api/ping] to test, if alright
+-Now go to [http://localhost:3001/register] to load frontend and create your account by providing username etc.
+
